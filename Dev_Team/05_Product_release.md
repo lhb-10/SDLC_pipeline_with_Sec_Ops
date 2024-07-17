@@ -1,0 +1,28 @@
+# Product release
+- Production deployment
+  - :books: Linux platform 
+  - :books: Windows platform
+  - :book: Docker/K8s/...
+- Production decommission
+- Client management
+- :books: DevOps CI/CD tools
+- :books:
+  - [ ] A Blueprint for Production-Ready Web Applications
+- :books: Virtualization 
+  - KVM
+  - Virtualbox 
+  - Vmware
+  - Docker
+    - [ ] Container Networking From Docker to Kubernetes 
+    - [ ] Container Security Fundamental Technology Concepts that Project Containerized Applications
+    - [ ] Docker in Action
+    - [ ] Docker networking and Service Discovery 
+    - [ ] Docker Networking Cookbook 
+    - [ ] Generic Pipelines Using Docker
+    - [ ] Practical Docker with Python
+    - [ ] Using Docker
+    - [ ] Continuous Delivery with Docker and Jenkins
+    - [ ] Learn Kubernetes Docker .NET Core
+    - [ ] Bootstrapping Microservices with Docker, Kubernetes, and Terraform A project-based guide 
+    - [ ] Bootstrapping Microservices With Docker Kubernetes, Github Actions, and Terraform
+    - [ ] Continuous Delivery with docker and Jenkins

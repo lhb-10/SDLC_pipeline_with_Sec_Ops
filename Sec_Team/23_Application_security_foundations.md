@@ -1,0 +1,21 @@
+# Application security foundations
+- Standards and requirements
+- IDE integration
+- Secure code review
+- Scanning for OSS (Open Source Software)
+  - When scanning for Open Source Software (OSS) in application security, you generally look for potential vulnerabilities, license compliance issues, and outdated packages. Here are some steps and tools to help you:
+  - Steps for Scanning OSS
+    - Inventory Your OSS Components: Identify all OSS components used in your application, including libraries, frameworks, and tools.
+    - Use Automated Tools: Employ automated scanning tools to detect vulnerabilities and compliance issues in OSS components.
+    - Check for Known Vulnerabilities: Compare your OSS components against databases of known vulnerabilities (such as the National Vulnerability Database - NVD).
+    - Review Licenses: Ensure that the OSS licenses are compatible with your usage and comply with your organization's policies.
+    - Update Regularly: Keep your OSS components up-to-date with the latest security patches and versions.
+  - Tools for Scanning OSS
+    - Dependency-Check: An open-source tool that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.
+    - OWASP Dependency-Track: A tool that allows organizations to identify and reduce risk in the software supply chain.
+    - Snyk: A commercial tool that finds and fixes vulnerabilities in your dependencies.
+    - WhiteSource: Another commercial solution that manages open source security, compliance, and quality.
+    - Black Duck: A comprehensive solution for OSS security and license compliance management.
+- Scanning for vulnerabilities
+- Security training
+- :books:
