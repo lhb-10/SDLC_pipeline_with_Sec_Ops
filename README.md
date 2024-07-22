@@ -53,8 +53,52 @@
 - WAF
 - RASP 
 
+> [!NOTE]
+> 
+> Security-Driven Software Development Learn to analyze and mitigate risks in your software projects
+
+### Security-Driven Software Development
+* Security Principles
+* Designing a Secure Functional Model
+* Designing a Secure Object Model
+* Designing a Secure Dynamic Model
+* Designing a Secure System Model
+* Threat model
+* Authentication and Authorization 
+* Input Validation and Sanitization
+* Standard Web Application Vulnerabilities
+* Database security 
+* Unit Testing
+* Regression Testing 
+* Integration , System and Acceptance Testing
+  * System testing
+    * Test environment setup:
+    * Test planning
+    * Functional testing:
+    * Performance testing:
+    * Security testing
+    * Usability testing
+    * Compatibility testing
+    * Documentation verification
+    * Error handling and logging
+    * Data integrity testing
+    * Installation and configuration testing
+    * Test completion and reporting
+* Software penetration testing
+  * Pre-engagement
+  * Information gathering (reconnaissance)
+  * Threat modeling
+  * Vulnerability analysis
+  * Exploitation
+  * Post-exploitation
+  * Reporting
+  * Debriefing
+  * Remediation verification:
+  * Continuous monitoring and improvement:
+
+
 ## References 
-- https://www.sonarsource.com/plans-and-pricing/enterprise/
+<!-- - https://www.sonarsource.com/plans-and-pricing/enterprise/
 - https://docs.gitlab.com/charts/
 - https://www.snel.com/support/how-to-create-your-own-gitlab-server-on-ubuntu-18-04/
 - https://cme241.github.io/
@@ -254,4 +298,4 @@
 - https://owasp.org/www-project-mobile-top-10/
 - https://owasp.org/www-project-internet-of-things/
 - https://www.thehacker.recipes/a-d/movement/credentials/cracking
-- https://hashcat.net/wiki/doku.php?id=example_hashes
+- https://hashcat.net/wiki/doku.php?id=example_hashes -->
