@@ -54,7 +54,7 @@
 - RASP 
 
 ## References 
-- https://www.sonarsource.com/plans-and-pricing/enterprise/
+<!-- - https://www.sonarsource.com/plans-and-pricing/enterprise/
 - https://docs.gitlab.com/charts/
 - https://www.snel.com/support/how-to-create-your-own-gitlab-server-on-ubuntu-18-04/
 - https://cme241.github.io/
@@ -254,4 +254,4 @@
 - https://owasp.org/www-project-mobile-top-10/
 - https://owasp.org/www-project-internet-of-things/
 - https://www.thehacker.recipes/a-d/movement/credentials/cracking
-- https://hashcat.net/wiki/doku.php?id=example_hashes
+- https://hashcat.net/wiki/doku.php?id=example_hashes -->
