@@ -28,11 +28,17 @@
 ## Security
 ![](Image/Application_Security.png)
 
-1. application security
+> [!IMPORTANT]
+> 
+> * [x] Alice and Bob Learn Application Security by Tanya Janca
+> * [x] Application Security Program Handbook
+
+1. Application security
 - Threat intelligence
 - Industry research
 2. Security requirement
 - Threat modeling
+  - ...
 - Risk assessment
 - Security requirements
 3. Application security foundations
@@ -41,6 +47,7 @@
 - Secure code review
 - Scanning for OSS
 - Scanning for vulnerabilities
+  - ...
 - Security training
 4. QA
 - IAST/DAST
@@ -95,8 +102,27 @@
   * Debriefing
   * Remediation verification:
   * Continuous monitoring and improvement:
+### Automating Security Detection Engineering
+- Detection as Code Architecture and Lifecycle
+- Scoping and Automating Threat-Informed Defense Inputs
+- Developing Core CI/CD Pipeline Functions
+- Leveraging AI for Use Case Development
+- Implementing Logical Unit Tests
+- Creating Integration Tests
+- Leveraging AI for Testing
+- Monitoring Detection Health
+- Measuring Program Efficiency
+- Operating Patterns by Maturity
+## Superior Products’ path to more secure code
 
+![](Image/20240722233243.png)
 
+## Ops Team
+* Deploy 
+* Release
+* Operate
+* Monitor
+* ...
 ## References 
 <!-- - https://www.sonarsource.com/plans-and-pricing/enterprise/
 - https://docs.gitlab.com/charts/

@@ -18,4 +18,7 @@
     - Black Duck: A comprehensive solution for OSS security and license compliance management.
 - Scanning for vulnerabilities
 - Security training
-- :books:
+
+## Scanning for vulnerabilities
+
+### Common Vulnerability (Web)
