@@ -4,33 +4,36 @@
 
 ![](Image/SDLC.png)
 
-1. Client need
-- Client need a feature
-2. Product owner
-- Client requirements
-- Functional/ Nonfunctional requirements
-- Slotting of work
-3. Development team
-- Architectural decisions & design
-- Code development
-- Code debug
-- Open source & technology used
-- Tool chain for integrations
-- Code integration
-4. QA
-- Code test deployment
-- Code testing
-- Code acceptance
-5. Product release 
-- Production deployment
-- Production decommission
-- Client management
+| Process| Description|Demo |
+|-|-|-|
+|1. Client need| <li> Client need a feature| |
+|2. Product owner|<li> Client requirements <li> Functional/ Nonfunctional requirements <li> Slotting of work ||
+|3. Development team|<li> Architectural decisions & design <li>Code development <li>Code debug <li> Open source & technology used <li> Tool chain for integrations <li>  Code integration  ||
+|4. QA|<li> Code test deployment <li> Code testing <li> Code acceptance||
+|5. Product release|<li> Production deployment <li> Production decommission <li> Client management||
+
+
+### Django Development
 
 READ MORE:
 
 [Django_enterprise_development](Dev_Team/Django_in_production/Django_enterprise_development.md)
 
+> [!NOTE]
+> 
 > Example of Django: Client requirements, Functional/ Nonfunctional requirements, Architectural decisions & design, Code development, Tool chain for integrations, IDE, ...
+
+Django Testing
+
+> [!NOTE]
+> 
+> ...
+
+Django Deployment
+
+> [!NOTE]
+> 
+> ...
 
 
 ## Security
@@ -40,98 +43,20 @@ READ MORE:
 > 
 > * [x] Alice and Bob Learn Application Security by Tanya Janca
 > * [x] Application Security Program Handbook
-
-1. Application security
-- Threat intelligence
-- Industry research
-2. Security requirement
-- Threat modeling
-  - ...
-- Risk assessment
-- Security requirements
-3. Application security foundations
-- Standards and requirements
-- IDE integration
-- Secure code review
-- Scanning for OSS
-- Scanning for vulnerabilities
-  - ...
-- Security training
-4. QA
-- IAST/DAST
-- Penetration Test
-  - Penetration testing methodologies
-  - Types of penetration testing 
-  - The phases of penetration testing
-    - Reconnaissance
-    - Scanning and enumeration
-    - Gaining access (exploitation)
-    - Maintaining access
-    - Covering your tracks
-    - Report writing/Documentation
-  - Cyber Kill Chain framework
-  - Penetration testing checklist
-- Abuse cases
-5. Operational security
-- Threat intelligence
-- Client support
-- Vulnerability management
-- WAF
-- RASP 
+| Process| Description| Demo |
+|-|-|-|
+|1. Application security|<li> Threat intelligence <li> Industry research||
+|2. Security requirement|<li>Threat modeling <li> Risk assessment<li>Security requirements||
+|3. Application security foundations|<li> Standards and requirements<li>IDE integration <li> Secure code review<li>Scanning for OSS <li> Scanning for vulnerabilities <li> Security training ||
+|4. QA|<li> IAST/DAST <li>Penetration Test <li> Abuse cases <li>  ||
+|5. Operational security | <li> Threat intelligence <li> Client support <li> Vulnerability management <li>WAF <li> RASP  ||
 
 > [!NOTE]
 > 
 > Security-Driven Software Development Learn to analyze and mitigate risks in your software projects
 
-### Security-Driven Software Development
-* Security Principles
-* Designing a Secure Functional Model
-* Designing a Secure Object Model
-* Designing a Secure Dynamic Model
-* Designing a Secure System Model
-* Threat model
-* Authentication and Authorization 
-* Input Validation and Sanitization
-* Standard Web Application Vulnerabilities
-* Database security 
-* Unit Testing
-* Regression Testing 
-* Integration , System and Acceptance Testing
-  * System testing
-    * Test environment setup:
-    * Test planning
-    * Functional testing:
-    * Performance testing:
-    * Security testing
-    * Usability testing
-    * Compatibility testing
-    * Documentation verification
-    * Error handling and logging
-    * Data integrity testing
-    * Installation and configuration testing
-    * Test completion and reporting
-* Software penetration testing
-  * Pre-engagement
-  * Information gathering (reconnaissance)
-  * Threat modeling
-  * Vulnerability analysis
-  * Exploitation
-  * Post-exploitation
-  * Reporting
-  * Debriefing
-  * Remediation verification:
-  * Continuous monitoring and improvement:
-### Automating Security Detection Engineering
-- Detection as Code Architecture and Lifecycle
-- Scoping and Automating Threat-Informed Defense Inputs
-- Developing Core CI/CD Pipeline Functions
-- Leveraging AI for Use Case Development
-- Implementing Logical Unit Tests
-- Creating Integration Tests
-- Leveraging AI for Testing
-- Monitoring Detection Health
-- Measuring Program Efficiency
-- Operating Patterns by Maturity
+
+
 ## Superior Products’ path to more secure code
 
 ![](Image/20240722233243.png)
