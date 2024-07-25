@@ -57,6 +57,35 @@ Django Deployment
 > 
 > Security-Driven Software Development Learn to analyze and mitigate risks in your software projects
 
+### Shift-right and Shift-left Security
+
+| |1 |2 |3 | 4| 5|
+|-|-|-|-|-|-|
+| Computer Network|1 |2 |3 | 4| 5|
+| Operating System|1 |2 |3 | 4| 5|
+| Network Security|1 |2 |3 | 4| 5|
+| |1| 2 |3 |4 | Packet Analysis of Common Protocols|
+| Knowledge| | | | |Cyber Threat Intelligences |
+| Knowledge|1 |2 |3 | 4|  Firewall: PfSense and OpenSense (opensource)|
+| -|- |- |- | -| -|
+| **Group** | **1. Application security**| **2. Security requirement** |**3. Application security foundations** | **4. QA**|**5. Operational security** |
+|Topic|_Threat intelligence_|_Threat modeling_ | _Standards and requirements_|_IAST/DAST_ |_Threat intelligence_ | 
+|Topic|_Industry research_ |_Risk assessment_ | _IDE integration_|_Penetration Test_ |  _Client support_| 
+|Topic| | _Security requirements_| _Secure code review_| _Abuse cases_  |_Vulnerability management_ | 
+|Topic | | |_Scanning for OSS_| | _WAF_|
+|Topic| | |_Scanning for vulnerabilities_ | | _RASP_|
+|Topic | | | _Security training_| | |
+| -|- |- |- | -| -|
+|Practices |1 |2 |3 |4 | Practical Threat Intelligence|
+|Practices |1 |2 |3 |4 | Practical Data-Driven Threat Hunting|
+|Practices |1 |2 |3 |4 | Practical Detection Engineering|
+|Tools |1 |2 |3 |4 | Practice WireShark: Monitoring and Analysis Traffic|
+|Tools |1 |2 |3 | BurpSuite| 5|
+|Tools |1 |2 |3 | Nmap| 5|
+|Tools |1 |2 |3 | Metasploit| 5|
+|Tools |1 |2 |3 | Sqlmap| 5|
+
+
 
 
 ## Superior Products’ path to more secure code
