@@ -57,7 +57,7 @@ Django Deployment
 > 
 > Security-Driven Software Development Learn to analyze and mitigate risks in your software projects
 
-### Shift-right and Shift-left Security
+### Matrix: Shift-right and Shift-left in Security (Concepts to Practices)
 
 | |1 |2 |3 | 4| 5|
 |-|-|-|-|-|-|
@@ -79,6 +79,7 @@ Django Deployment
 |Practices |1 |2 |3 |4 | Practical Threat Intelligence|
 |Practices |1 |2 |3 |4 | Practical Data-Driven Threat Hunting|
 |Practices |1 |2 |3 |4 | Practical Detection Engineering|
+|Practices |1 |2 |3 |4 | Practical Automation Security Detection Engineering|
 |Tools |1 |2 |3 |4 | Practice WireShark: Monitoring and Analysis Traffic|
 |Tools |1 |2 |3 | BurpSuite| 5|
 |Tools |1 |2 |3 | Nmap| 5|
