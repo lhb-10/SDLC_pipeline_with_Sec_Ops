@@ -43,6 +43,8 @@ Django Deployment
 > 
 > * [x] Alice and Bob Learn Application Security by Tanya Janca
 > * [x] Application Security Program Handbook
+
+
 | Process| Description| Demo |
 |-|-|-|
 |1. Application security|<li> Threat intelligence <li> Industry research||
