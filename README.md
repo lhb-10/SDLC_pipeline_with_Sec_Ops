@@ -25,6 +25,14 @@
 - Production deployment
 - Production decommission
 - Client management
+
+READ MORE:
+
+[Django_enterprise_development](Dev_Team/Django_in_production/Django_enterprise_development.md)
+
+> Example of Django: Client requirements, Functional/ Nonfunctional requirements, Architectural decisions & design, Code development, Tool chain for integrations, IDE, ...
+
+
 ## Security
 ![](Image/Application_Security.png)
 
@@ -52,6 +60,17 @@
 4. QA
 - IAST/DAST
 - Penetration Test
+  - Penetration testing methodologies
+  - Types of penetration testing 
+  - The phases of penetration testing
+    - Reconnaissance
+    - Scanning and enumeration
+    - Gaining access (exploitation)
+    - Maintaining access
+    - Covering your tracks
+    - Report writing/Documentation
+  - Cyber Kill Chain framework
+  - Penetration testing checklist
 - Abuse cases
 5. Operational security
 - Threat intelligence
