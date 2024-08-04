@@ -4,7 +4,7 @@
 
 ![](Image/SDLC.png)
 
-| Process| Description|Demo |
+| Process| Description|Illustration |
 |-|-|-|
 |1. Client need| <li> Client need a feature| |
 |2. Product owner|<li> Client requirements <li> Functional/ Nonfunctional requirements <li> Slotting of work ||
@@ -45,7 +45,7 @@ Django Deployment
 > * [x] Application Security Program Handbook
 
 
-| Process| Description| Demo |
+| Process| Description| Illustration |
 |-|-|-|
 |1. Application security|<li> Threat intelligence <li> Industry research||
 |2. Security requirement|<li>Threat modeling <li> Risk assessment<li>Security requirements||
@@ -59,8 +59,9 @@ Django Deployment
 
 ### Matrix: Shift-right and Shift-left in Security (Concepts to Practices)
 
-| |1 |2 |3 | 4| 5|
+|Note| | | | | |
 |-|-|-|-|-|-|
+| OpTeams| | | | | Nginx HTTP|
 | Computer Network|1 |2 |3 | 4| 5|
 | Operating System|1 |2 |3 | 4| 5|
 | Network Security|1 |2 |3 | 4| 5|
@@ -98,8 +99,20 @@ Django Deployment
 * Release
 * Operate
 * Monitor
-* ...
+## DevOps Tools Ecosystem 
+|Layer | tools|
+|------|------|
+|Development & Version Control | Git, SVN, Mercurial, Bitbucket, GitLab, GitHub, Perforce|
+|CI/CD | Jenkins, Travis CI, CircleCI, GitLab CI, Bamboo, TeamCity, Azure DevOps, CodeShip, Octopus Deploy| 
+|Configuration Management | Ansible, Chef, Puppet, SaltStack, CFEngine, Terraform|
+| Containerization & Orchestration | Docker, Kubernetes, Docker Swarm, Mesosphere DC,OS, OpenShift, Rancher, Nomad|
+|Monitoring & Logging | Prometheus , Grafana , Elasticsearch, Kibana, Splunk, Logstash, Zabbix, Nagios, New Relic, Datadog, Sumo Logic| 
+|Infrastructure as Code | Vagrant, Pulumi, Azure Resource Manager, Google Cloud Deployment Manager, AWS CloudFormation, Terraform|
+|Platform| AWS, Azure, GCP, IDM Cloud, Oracle Cloud, Digital Ocean, Linode, Hiroku|
 ## References 
+
+![](Image/How-to-understand.png)
+
 <!-- - https://www.sonarsource.com/plans-and-pricing/enterprise/
 - https://docs.gitlab.com/charts/
 - https://www.snel.com/support/how-to-create-your-own-gitlab-server-on-ubuntu-18-04/
